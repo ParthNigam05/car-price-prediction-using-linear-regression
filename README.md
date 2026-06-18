@@ -38,5 +38,5 @@ A Linear Regression model was built to predict car prices based on various vehic
 
 
 
-##Author
+## Author
 Parth Nigam
